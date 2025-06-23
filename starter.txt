@@ -1,1 +1,4 @@
-Deleted starter.txt
+Note:
+This file was initially created to enable the “Upload files” option in an empty GitHub repository.
+It does not contribute to the functionality of this project and can be safely ignored.
+
