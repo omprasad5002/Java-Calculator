@@ -1,1 +1,2 @@
 This file is created to unlock upload options.
+Removed starter.txt – no longer needed
